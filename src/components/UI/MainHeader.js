@@ -3,6 +3,8 @@ import logo from "../dummy-data/life_planner_logo.png"
 import { NavLink } from "react-router-dom"
 
 const MainHeader = () => {
+
+
     return (
         <header className={classes.header}>
             <div>
