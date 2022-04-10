@@ -1,4 +1,4 @@
-# [LIVE VERSION](https://dreamy-perlman-705c6e.netlify.app/)
+# [LIVE VERSION](https://sweet-medovik-a04cab.netlify.app/goals)
 
 # Getting Started with Create React App
 
